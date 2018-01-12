@@ -1,0 +1,9 @@
+# Jekyll settings
+permalink: pretty
+markdown: kramdown
+
+# Blog settings
+name: SourceSmithy
+authorname: SourceSmithy
+description: Software Products
+url: http://sourcesmithy.github.io

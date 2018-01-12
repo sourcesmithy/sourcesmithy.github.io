@@ -1,0 +1,12 @@
+---
+layout: none
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+{% include sitemapxml.html url="/pages/products/" %}
+{% include sitemapxml.html url="/pages/downloads/" %}
+{% include sitemapxml.html url="/pages/shop/" %}
+{% include sitemapxml.html url="/pages/contact/" %}
+{% include sitemapxml.html url="/pages/tagz/" %}
+</urlset>
